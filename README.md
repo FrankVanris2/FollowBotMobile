@@ -14,7 +14,7 @@ We will be focusing on the main mechanics of our mobile device:
 
 ## Configuration & Usage
 For installations and Configurations please follow the link below:
-(Installation and Setup)[link]
+[Installation and Setup](https://github.com/FrankVanris2/FollowBotMobile/blob/main/BotServerNative/README.md)
 
 ## Development Guidelines
 
